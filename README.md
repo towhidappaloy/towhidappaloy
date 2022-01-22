@@ -8,7 +8,7 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 </p> 
 <hr/>
-<h4 align="left">I am a Programmer, Web Developer. Completed my B.Sc. in Conputer Science & Engineering from North Western Univesity, Khulna.. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="left">I am a Programmer, Web Developer. Completed my B.Sc. in Computer Science & Engineering from North Western Univesity, Khulna... I like to Code, Design, Innovate and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.</h4>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
   
@@ -82,7 +82,12 @@
 <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime Text-474747?style=for-the-badge&logo=visual%20studio%20code&logoColor=yellow"></a>
-<a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/17999358/towhid"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=csetowhid) 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csetowhid">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=csetowhid&show_icons=true"/>
